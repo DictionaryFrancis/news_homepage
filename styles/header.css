@@ -1,0 +1,53 @@
+header{
+    display: flex;
+}
+
+header #header_image img{
+    width: 730px;
+    height: 300px;
+}
+
+.header_content{
+    max-width: 730px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;   
+}
+
+.header_content div:nth-child(2){
+    display: flex;
+    gap: 30px;
+    height: 182px;
+    width: 730px;
+}
+
+.read-more{
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+}
+
+.read-more p{
+    font: var(--body);
+    padding-right: 12px;
+}
+
+.read-more button{
+    width: 185px;
+    height: 48px;
+    color: var(--dark-space-blue);
+    background-color: var(--light-vermillion);
+    border: none;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 4.38px;
+    font-weight: bold;
+}
+
+h1{
+    font: var(--heading--xl);
+    color: var(--dark-space-blue);
+    max-width: 350px;
+    
+    line-height: 56px;
+}
