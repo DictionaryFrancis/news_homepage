@@ -45,6 +45,12 @@ header #header_image img{
     font-weight: bold;
 }
 
+.read-more button:hover{
+    cursor: pointer;
+    background-color: var(--dark-space-blue);
+    color: var(--almost-white);
+}
+
 h1{
     font: var(--heading--xl);
     color: var(--dark-space-blue);

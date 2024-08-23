@@ -33,6 +33,11 @@ main h3 {
     padding-bottom: 9px;
 }
 
+main h3:hover{
+    cursor: pointer;
+    color: var(--light-vermillion);
+}
+
 main p {
     font: var(--body);
 }

@@ -11,3 +11,8 @@ nav ul{
     gap: 40px;
 
 }
+
+nav li:hover{
+    cursor: pointer;
+    color: var(--light-vermillion);
+}

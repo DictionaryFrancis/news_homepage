@@ -23,6 +23,10 @@ aside p{
     color: var(--silver);
 }
 
+aside h3:hover{
+    cursor: pointer;
+    color: var(--yellow);
+}
 
 aside hr{
     margin: 29px 0 31px 0;
