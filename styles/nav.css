@@ -6,7 +6,6 @@ nav{
 }
 
 nav ul{
-    list-style: none;
     display: flex;
     align-items: center;
     gap: 40px;
