@@ -1,0 +1,32 @@
+aside{
+    background-color: var(--dark-space-blue);
+    color: var(--almost-white);
+    padding: 48px;
+}
+
+h2{
+    font: var(--heading--l);
+    color: var(--yellow);
+    font-weight: bold;
+    padding-bottom: 34px;
+}
+
+h3{
+    font: var(--heading--s);
+    color: var(--almost-white);
+    padding-bottom: 8px;
+    font-weight: bold;
+}
+
+aside p{
+    font: var(--body);
+    color: var(--silver);
+}
+
+
+aside hr{
+    margin: 29px 0 31px 0;
+    background-color: #979797;
+    height: 1px;
+}
+

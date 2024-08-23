@@ -1,5 +1,6 @@
 header{
     display: flex;
+    gap: 30px;
 }
 
 header #header_image img{
